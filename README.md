@@ -1,2 +1,4 @@
-# Simon__Game
-Initial file
+ Simon__Game
+ 
+ https://arunrajput911.github.io/Simon__Game/
+
